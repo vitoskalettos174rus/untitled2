@@ -3,7 +3,7 @@ public class Main {
 
         int ticket = 5000;
         int bonus = 20;
-        int bonusMile = ticket/ bonus;
+        int bonusMile = ticket / bonus;
 
         System.out.println("При покупке билета стоимостью " + ticket + " руб., Ваш бонус составит " + bonusMile + " бонусных миль.");
     }
